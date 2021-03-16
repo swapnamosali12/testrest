@@ -1,4 +1,4 @@
-package com.spock.springspock.config;
+/*package com.spock.springspock.config;
 
 import com.spock.springspock.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,3 +24,4 @@ auth.userDetailsService(customUserDetailsService);    }
         return NoOpPasswordEncoder.getInstance();
 }
 }
+*/
