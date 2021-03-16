@@ -1,4 +1,4 @@
-package com.spock.springspock.service;
+/*package com.spock.springspock.service;
 
 import com.spock.springspock.model.User;
 import com.spock.springspock.repository.UserRepository;
@@ -19,3 +19,4 @@ public class CustomUserDetailsService implements UserDetailsService {
         return new org.springframework.security.core.userdetails.User(user.getUserName(),user.getPassword(),new ArrayList<>());
     }
 }
+*/
